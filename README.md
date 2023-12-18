@@ -30,7 +30,7 @@ fairseq-train --user-dir ./graphormer ./examples/oc20/data/is2re_clean/all --val
 
 ![](./figure/Results_table.png)
 
-![](./figure/Improved_Visualization.png)
+![](./figure/Vis.png)
 
 ## Acknowledgements
 
