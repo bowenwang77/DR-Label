@@ -28,8 +28,10 @@ fairseq-train --user-dir ./graphormer ./examples/oc20/data/is2re_clean/all --val
 
 ### Results
 
+Results on OC20:
 ![](./figure/Results_table.png)
 
+Visualization of intermediate geometries:
 ![](./figure/Vis.png)
 
 ## Acknowledgements
